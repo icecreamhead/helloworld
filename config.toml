@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-gb"
+title = "Hello World"
+theme = "papercss-hugo-theme"
+
+[menu]
+  [[menu.nav]]
+    name = "Basics"
+    url = "/basics/"
+    weight = 1
+
